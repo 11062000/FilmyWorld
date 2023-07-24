@@ -1,0 +1,3 @@
+FilmyWorld is a web application which aims to provide every thing which is needed by a movie lover, this app gives us feature of watching and modifying details about a movie, through which user can decide whether to go for that movie or not.
+
+This app also enables a functionality where user can insert his/her movies which he aims to recomment others, the simple UI interface of this app helps user to perform this task easily.
