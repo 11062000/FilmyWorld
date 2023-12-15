@@ -1,7 +1,7 @@
-Filmyverse - Your Ultimate Movie Review Platform
+**Filmyverse - Your Ultimate Movie Review Platform**
 Welcome to Filmyverse, where movie enthusiasts come together to explore, review, and share their thoughts on the latest films! This web application is built using React for the frontend and Firebase for backend services.
 
-Features
+**Features:**
 Browse Movies: Explore a vast collection of movies and get detailed information about each film.
 
 Submit Reviews: Share your insights by submitting reviews for your favorite (or not-so-favorite) movies.
